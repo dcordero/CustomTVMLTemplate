@@ -2,7 +2,7 @@ import UIKit
 
 class ConfettiTemplateViewController: UIViewController {
 
-    var text: String = "Hello ConfettiTemplate"
+    var text: String?
 
     private var label: UILabel!
 
