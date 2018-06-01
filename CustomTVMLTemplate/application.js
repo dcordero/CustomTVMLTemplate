@@ -3,9 +3,7 @@
 const templateDocument = function() {
     return `
         <document>
-            <confettiTemplate>
-                <text>Hello ConfettiTemplate</text>
-            </confettiTemplate>
+            <confettiTemplate title="Custom Title from JS Template"></confettiTemplate>
         </document>`
 }
 
